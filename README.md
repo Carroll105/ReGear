@@ -3,7 +3,7 @@
 
 
 
-See the [paper](https://doi.org/10.1093/bib/bbaa253)
+See the [paper](https://academic.oup.com/bib/article/22/4/bbaa253/5921981?login=true)
 
 See the tutorials in the ReGear-manual-v1.02.pdf
 
